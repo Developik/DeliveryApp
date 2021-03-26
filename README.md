@@ -1,2 +1,2 @@
 # DeliveryApp
-Description and screenshots of my project. For code request reach me out
+Description and screenshots of my project. If you need code example, reach me out
