@@ -3,6 +3,10 @@ Description and screenshots of my project. If you need code example, reach me ou
 
 Project was created using React Native (Expo), NodeJS, MongoDB, AWS services, Heroku, Firebase.
 
+We could upload user Posts to AWS S3 and all of the user account data is stored on MongoDB. 
+Firebase is used mainly for sign in and some verification features.
+Heroku contains my NodeJs (Express) based server to communicate between Front-End and Back-End.
+
 ![image](https://user-images.githubusercontent.com/54965144/112562648-c3db9500-8da5-11eb-9291-23a42b508b62.png)
 
 
